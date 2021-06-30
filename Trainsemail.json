@@ -1,0 +1,830 @@
+[
+    {
+        "TrainName": "02034  NEW DELHI - KANPUR CENTRAL Shatabdi Covid Special",
+        "TrainSeats": [
+            "AVBL-0768",
+            "AVBL-0036",
+            "REGRET",
+            "PQWL61/WL48"
+        ],
+        "DepartureTime": "15:50 NDLS",
+        "ArrivalTime": "20:50 CNB",
+        "TotalTravelTime": "5 H 0 M"
+    },
+    {
+        "TrainName": "05956  OLD DELHI - KAMAKHYA Brahmaputra Mail Covid Special",
+        "TrainSeats": [
+            "AVBL-0014",
+            "AVBL-0001",
+            "RLWL13/WL11",
+            "RLWL31/WL20"
+        ],
+        "DepartureTime": "23:40 DLI",
+        "ArrivalTime": "05:20 CNB",
+        "TotalTravelTime": "5 H 40 M"
+    },
+    {
+        "TrainName": "04218  CHANDIGARH - PRAYAGRAJ SANGAM Covid Special",
+        "TrainSeats": [
+            "RLWL1/WL1",
+            "AVBL-0021",
+            "AVBL-0011",
+            "AVBL-0022"
+        ],
+        "DepartureTime": "21:30 DLI",
+        "ArrivalTime": "05:30 CNB",
+        "TotalTravelTime": "8 H 0 M"
+    },
+    {
+        "TrainName": "02566  NEW DELHI - DARBHANGA Bihar Sampark Kranti Exp Covid Special",
+        "TrainSeats": [
+            "GNWL54/WL17",
+            "AVBL-0004",
+            "AVBL-0001",
+            "RLWL109/WL93"
+        ],
+        "DepartureTime": "13:00 NDLS",
+        "ArrivalTime": "18:10 CNB",
+        "TotalTravelTime": "5 H 10 M"
+    },
+    {
+        "TrainName": "04724  BHIWANI - KANPUR CENTRAL Kalindi Covid Special",
+        "TrainSeats": [
+            "RLWL45/WL38",
+            "RLWL15/WL11",
+            "RLWL6/WL4",
+            "RLWL2/WL1"
+        ],
+        "DepartureTime": "22:50 DLI",
+        "ArrivalTime": "11:35 CNB",
+        "TotalTravelTime": "12 H 45 M"
+    },
+    {
+        "TrainName": "02312  KALKA - HOWRAH Kalka Mail Covid Special",
+        "TrainSeats": [
+            "REGRET",
+            "RLWL44/WL23",
+            "RLWL11/WL11",
+            "AVBL-0006"
+        ],
+        "DepartureTime": "06:20 DLI",
+        "ArrivalTime": "13:45 CNB",
+        "TotalTravelTime": "7 H 25 M"
+    },
+    {
+        "TrainName": "02816  ANAND VIHAR T - PURI Nandan Kanan Covid Special",
+        "TrainSeats": [
+            "AVBL-0004",
+            "GNWL55/WL25",
+            "AVBL-0024",
+            "AVBL-0006"
+        ],
+        "DepartureTime": "07:30 ANVT",
+        "ArrivalTime": "13:20 CNB",
+        "TotalTravelTime": "5 H 50 M"
+    },
+    {
+        "TrainName": "02550  ANAND VIHAR T - KAMAKHYA Festival Special",
+        "TrainSeats": [
+            "AVBL-0008",
+            "GNWL62/WL47",
+            "AVBL-0060",
+            "AVBL-0020"
+        ],
+        "DepartureTime": "07:40 ANVT",
+        "ArrivalTime": "13:25 CNB",
+        "TotalTravelTime": "5 H 45 M"
+    },
+    {
+        "TrainName": "02324  BARMER - HOWRAH Festival SF Special",
+        "TrainSeats": [
+            "AVBL-0009",
+            "RLWL19/WL17",
+            "RLWL29/WL16",
+            "RLWL1/WL1"
+        ],
+        "DepartureTime": "07:55 DLI",
+        "ArrivalTime": "13:55 CNB",
+        "TotalTravelTime": "6 H 0 M"
+    },
+    {
+        "TrainName": "02570  NEW DELHI - DARBHANGA Humsafar Covid Special",
+        "TrainSeats": [
+            "AVBL-0004",
+            "AVBL-0001",
+            "PQWL8/WL6",
+            "AVBL-0011"
+        ],
+        "DepartureTime": "12:15 NDLS",
+        "ArrivalTime": "18:15 CNB",
+        "TotalTravelTime": "6 H 0 M"
+    },
+    {
+        "TrainName": "02398  NEW DELHI - GAYA Festival Special",
+        "TrainSeats": [
+            "PQWL19/WL4",
+            "AVBL-0030",
+            "AVBL-0012",
+            "AVBL-0007"
+        ],
+        "DepartureTime": "12:50 NDLS",
+        "ArrivalTime": "18:00 CNB",
+        "TotalTravelTime": "5 H 10 M"
+    },
+    {
+        "TrainName": "02368  ANAND VIHAR T - BHAGALPUR Vikramshila Covid Special",
+        "TrainSeats": [
+            "GNWL61/WL40",
+            "GNWL157/WL65",
+            "AVBL-0011",
+            "AVBL-0002"
+        ],
+        "DepartureTime": "13:15 ANVT",
+        "ArrivalTime": "18:25 CNB",
+        "TotalTravelTime": "5 H 10 M"
+    },
+    {
+        "TrainName": "02848  NEW DELHI - RANCHI Garib Rath Special",
+        "TrainSeats": [
+            "GNWL4/WL1",
+            "AVBL-0034",
+            "AVBL-0093",
+            "AVBL-0037"
+        ],
+        "DepartureTime": "16:10 NDLS",
+        "ArrivalTime": "21:00 CNB",
+        "TotalTravelTime": "4 H 50 M"
+    },
+    {
+        "TrainName": "02424  NEW DELHI - DIBRUGARH Rajdhani Special",
+        "TrainSeats": [
+            "AVBL-0001",
+            "AVBL-0053",
+            "AVBL-0014",
+            "AVBL-0003"
+        ],
+        "DepartureTime": "16:20 NDLS",
+        "ArrivalTime": "21:05 CNB",
+        "TotalTravelTime": "4 H 45 M"
+    },
+    {
+        "TrainName": "02314  NEW DELHI - SEALDAH Covid AC Special",
+        "TrainSeats": [
+            "AVBL-0089",
+            "AVBL-0036",
+            "AVBL-0006",
+            "AVBL-0082"
+        ],
+        "DepartureTime": "16:30 NDLS",
+        "ArrivalTime": "21:15 CNB",
+        "TotalTravelTime": "4 H 45 M"
+    },
+    {
+        "TrainName": "02302  NEW DELHI - HOWRAH Rajdhani Covid Special",
+        "TrainSeats": [
+            "AVBL-0015",
+            "PQWL2/WL1",
+            "AVBL-0060",
+            "AVBL-0024"
+        ],
+        "DepartureTime": "16:50 NDLS",
+        "ArrivalTime": "21:35 CNB",
+        "TotalTravelTime": "4 H 45 M"
+    },
+    {
+        "TrainName": "02824  NEW DELHI - BHUBANESWAR Covid AC Special (Via Tatanagar)",
+        "TrainSeats": [
+            "AVBL-0004",
+            "TRAIN CANCELLED",
+            "TRAIN CANCELLED",
+            "TRAIN CANCELLED"
+        ],
+        "DepartureTime": "17:00 NDLS",
+        "ArrivalTime": "21:45 CNB",
+        "TotalTravelTime": "4 H 45 M"
+    },
+    {
+        "TrainName": "02310  NEW DELHI - RAJENDRA NAGAR T Rajdhani (Covid SPL AC)",
+        "TrainSeats": [
+            "TRAIN CANCELLED",
+            "PQWL36/WL32",
+            "PQWL41/WL28",
+            "PQWL21/WL16"
+        ],
+        "DepartureTime": "17:10 NDLS",
+        "ArrivalTime": "21:55 CNB",
+        "TotalTravelTime": "4 H 45 M"
+    },
+    {
+        "TrainName": "05734  AMRITSAR - KATIHAR Amrapali Special",
+        "TrainSeats": [
+            "AVBL-0001",
+            "PQWL5/WL1",
+            "AVBL-0013",
+            "AVBL-0018"
+        ],
+        "DepartureTime": "17:35 DLI",
+        "ArrivalTime": "00:25 CNB",
+        "TotalTravelTime": "6 H 50 M"
+    },
+    {
+        "TrainName": "02304  NEW DELHI - HOWRAH Poorva Covid SF Special (via Patna)",
+        "TrainSeats": [
+            "AVBL-0007",
+            "AVBL-0018",
+            "AVBL-0015",
+            "AVBL-0003"
+        ],
+        "DepartureTime": "17:40 NDLS",
+        "ArrivalTime": "22:55 CNB",
+        "TotalTravelTime": "5 H 15 M"
+    },
+    {
+        "TrainName": "02564  NEW DELHI - SAHARSA Humsafar Covid Special",
+        "TrainSeats": [
+            "AVBL-0074",
+            "AVBL-0010",
+            "AVBL-0006",
+            "AVBL-0613"
+        ],
+        "DepartureTime": "17:55 NDLS",
+        "ArrivalTime": "23:55 CNB",
+        "TotalTravelTime": "6 H 0 M"
+    },
+    {
+        "TrainName": "04006  ANAND VIHAR T - SITAMARHI Lichchhavi Covid Special",
+        "TrainSeats": [
+            "PQWL8/WL6",
+            "PQWL14/WL13",
+            "AVBL-0002",
+            "PQWL1/WL1"
+        ],
+        "DepartureTime": "18:00 ANVT",
+        "ArrivalTime": "00:15 CNB",
+        "TotalTravelTime": "6 H 15 M"
+    },
+    {
+        "TrainName": "02288  BIKANER - SEALDAH Duronto AC Special",
+        "TrainSeats": [
+            "PQWL1/WL1",
+            "PQWL12/WL10",
+            "PQWL25/WL16",
+            "PQWL4/WL3"
+        ],
+        "DepartureTime": "19:45 NDLS",
+        "ArrivalTime": "00:40 CNB",
+        "TotalTravelTime": "4 H 55 M"
+    },
+    {
+        "TrainName": "02572  ANAND VIHAR T - GORAKHPUR Humsafar Covid Special",
+        "TrainSeats": [
+            "AVBL-0001",
+            "AVBL-0002",
+            "GNWL90/WL58",
+            "GNWL206/WL94"
+        ],
+        "DepartureTime": "20:00 ANVT",
+        "ArrivalTime": "00:50 CNB",
+        "TotalTravelTime": "4 H 50 M"
+    },
+    {
+        "TrainName": "02560  NEW DELHI - MANDUADIH Shiv Ganga Covid SF Special",
+        "TrainSeats": [
+            "GNWL64/WL32",
+            "GNWL41/WL15",
+            "GNWL5/WL2",
+            "GNWL88/WL72"
+        ],
+        "DepartureTime": "20:05 NDLS",
+        "ArrivalTime": "01:00 CNB",
+        "TotalTravelTime": "4 H 55 M"
+    },
+    {
+        "TrainName": "02226  OLD DELHI - AZAMGARH Kaifiyaat Covid SF Special",
+        "TrainSeats": [
+            "AVBL-0142",
+            "AVBL-0244",
+            "AVBL-0020",
+            "AVBL-0014"
+        ],
+        "DepartureTime": "20:25 DLI",
+        "ArrivalTime": "01:55 CNB",
+        "TotalTravelTime": "5 H 30 M"
+    },
+    {
+        "TrainName": "02554  NEW DELHI - SAHARSA Vaishali Exp Covid SF Special",
+        "TrainSeats": [
+            "PQWL32/WL27",
+            "PQWL39/WL31",
+            "PQWL19/WL9",
+            "PQWL6/WL5"
+        ],
+        "DepartureTime": "20:40 NDLS",
+        "ArrivalTime": "02:25 CNB",
+        "TotalTravelTime": "5 H 45 M"
+    },
+    {
+        "TrainName": "02872  NEW DELHI - ISLAMPUR Magadh Festival Special",
+        "TrainSeats": [
+            "AVBL-0002",
+            "RLWL26/WL8",
+            "RLWL59/WL36",
+            "RLWL21/WL12"
+        ],
+        "DepartureTime": "21:05 NDLS",
+        "ArrivalTime": "03:40 CNB",
+        "TotalTravelTime": "6 H 35 M"
+    },
+    {
+        "TrainName": "02562  NEW DELHI - JAYNAGAR Swatantrata Senani Covid Special",
+        "TrainSeats": [
+            "RLWL14/WL7",
+            "RLWL2/WL2",
+            "GNWL137/WL134",
+            "GNWL53/WL29"
+        ],
+        "DepartureTime": "21:15 NDLS",
+        "ArrivalTime": "02:35 CNB",
+        "TotalTravelTime": "5 H 20 M"
+    },
+    {
+        "TrainName": "02556  HISAR - GORAKHPUR Gorakhdham Covid SF Special",
+        "TrainSeats": [
+            "AVBL-0055",
+            "AVBL-0016",
+            "AVBL-0246",
+            "RAC 51/RAC 37"
+        ],
+        "DepartureTime": "21:25 NDLS",
+        "ArrivalTime": "02:55 CNB",
+        "TotalTravelTime": "5 H 30 M"
+    },
+    {
+        "TrainName": "03484  OLD DELHI - MALDA TOWN Farakka Covid Special (via Faizabad)",
+        "TrainSeats": [
+            "AVBL-0017",
+            "AVBL-0024",
+            "GNWL1/WL1",
+            "PQWL4/WL4"
+        ],
+        "DepartureTime": "21:40 DLI",
+        "ArrivalTime": "05:40 CNB",
+        "TotalTravelTime": "8 H 0 M"
+    },
+    {
+        "TrainName": "02428  ANAND VIHAR T - REWA Covid Special",
+        "TrainSeats": [
+            "PQWL14/WL9",
+            "PQWL4/WL4",
+            "PQWL1/WL1",
+            "PQWL2/WL1"
+        ],
+        "DepartureTime": "22:05 ANVT",
+        "ArrivalTime": "03:15 CNB",
+        "TotalTravelTime": "5 H 10 M"
+    },
+    {
+        "TrainName": "02418  NEW DELHI - PRAYAGRAJ Covid Special",
+        "TrainSeats": [
+            "AVBL-0107",
+            "AVBL-0624",
+            "GNWL30/WL24",
+            "GNWL132/WL67"
+        ],
+        "DepartureTime": "22:10 NDLS",
+        "ArrivalTime": "03:50 CNB",
+        "TotalTravelTime": "5 H 40 M"
+    },
+    {
+        "TrainName": "04138  ANAND VIHAR T - PRAYAGRAJ Humsafar SF Special",
+        "TrainSeats": [
+            "GNWL34/WL25",
+            "AVBL-0001",
+            "",
+            "AVBL-0046"
+        ],
+        "DepartureTime": "22:35 ANVT",
+        "ArrivalTime": "03:25 CNB",
+        "TotalTravelTime": "4 H 50 M"
+    },
+    {
+        "TrainName": "02802  NEW DELHI - PURI Purushottam Covid Special",
+        "TrainSeats": [
+            "AVBL-0030",
+            "AVBL-0008",
+            "AVBL-0009",
+            "TRAIN CANCELLED"
+        ],
+        "DepartureTime": "22:40 NDLS",
+        "ArrivalTime": "04:00 CNB",
+        "TotalTravelTime": "5 H 20 M"
+    },
+    {
+        "TrainName": "02210  NEW DELHI - BHUBANESWAR Duronto Covid Special",
+        "TrainSeats": [
+            "TRAIN CANCELLED",
+            "TRAIN CANCELLED",
+            "TRAIN CANCELLED",
+            "AVBL-0415"
+        ],
+        "DepartureTime": "12:40 NDLS",
+        "ArrivalTime": "17:35 CNB",
+        "TotalTravelTime": "4 H 55 M"
+    },
+    {
+        "TrainName": "05484  OLD DELHI - ALIPUR DUAR Sikkim Mahananda Exp Covid SPL",
+        "TrainSeats": [
+            "RAC 49/RAC 43",
+            "AVBL-0083",
+            "RAC 1/RAC 1",
+            "AVBL-0011"
+        ],
+        "DepartureTime": "07:35 DLI",
+        "ArrivalTime": "15:00 CNB",
+        "TotalTravelTime": "7 H 25 M"
+    },
+    {
+        "TrainName": "02452  NEW DELHI - KANPUR CENTRAL Shram Shakti Covid SF Special",
+        "TrainSeats": [
+            "AVBL-0790",
+            "AVBL-0020",
+            "AVBL-0012",
+            "AVBL-0003"
+        ],
+        "DepartureTime": "23:55 NDLS",
+        "ArrivalTime": "06:00 CNB",
+        "TotalTravelTime": "6 H 5 M"
+    },
+    {
+        "TrainName": "02420  NEW DELHI - LUCKNOW Gomti SF Exp Covid Special",
+        "TrainSeats": [
+            "PQWL6/WL4",
+            "PQWL25/WL22",
+            "PQWL6/WL5",
+            "PQWL/AVBL"
+        ],
+        "DepartureTime": "12:20 NDLS",
+        "ArrivalTime": "19:50 CNB",
+        "TotalTravelTime": "7 H 30 M"
+    },
+    {
+        "TrainName": "02394  NEW DELHI - RAJENDRA NAGAR T Sampoorna Kranti Covid SF SPL",
+        "TrainSeats": [
+            "AVBL-0004",
+            "AVBL-0557",
+            "AVBL-0009",
+            "AVBL-0027"
+        ],
+        "DepartureTime": "17:30 NDLS",
+        "ArrivalTime": "22:36 CNB",
+        "TotalTravelTime": "5 H 6 M"
+    },
+    {
+        "TrainName": "02004  NEW DELHI - LUCKNOW Swarna Shatabdi Covid Special",
+        "TrainSeats": [
+            "AVBL-0070",
+            "AVBL-0013",
+            "AVBL-0002",
+            "AVBL-0002"
+        ],
+        "DepartureTime": "06:10 NDLS",
+        "ArrivalTime": "11:20 CNB",
+        "TotalTravelTime": "5 H 10 M"
+    },
+    {
+        "TrainName": "02582  NEW DELHI - MANDUADIH Festival SF Special",
+        "TrainSeats": [
+            "AVBL-0001",
+            "RLWL30/WL30",
+            "RLWL46/WL32",
+            "RLWL10/WL7"
+        ],
+        "DepartureTime": "22:50 NDLS",
+        "ArrivalTime": "04:30 CNB",
+        "TotalTravelTime": "5 H 40 M"
+    },
+    {
+        "TrainName": "08310  JAMMU TAWI - SAMBALPUR Muri Special",
+        "TrainSeats": [
+            "RLWL1/WL1",
+            "AVBL-0093",
+            "AVBL-0430",
+            "AVBL-0199"
+        ],
+        "DepartureTime": "06:50 DLI",
+        "ArrivalTime": "14:20 CNB",
+        "TotalTravelTime": "7 H 30 M"
+    },
+    {
+        "TrainName": "02820  ANAND VIHAR T - BHUBANESWAR Odisha Sampark Kranti Puja Special",
+        "TrainSeats": [
+            "AVBL-0030",
+            "GNWL62/WL26",
+            "AVBL-0058",
+            "AVBL-0061"
+        ],
+        "DepartureTime": "07:05 ANVT",
+        "ArrivalTime": "13:15 CNB",
+        "TotalTravelTime": "6 H 10 M"
+    },
+    {
+        "TrainName": "02876  ANAND VIHAR T - PURI Neelachal Covid Special",
+        "TrainSeats": [
+            "AVBL-0014",
+            "NOT AVBL",
+            "AVBL-0033",
+            "AVBL-0075"
+        ],
+        "DepartureTime": "07:30 ANVT",
+        "ArrivalTime": "13:20 CNB",
+        "TotalTravelTime": "5 H 50 M"
+    },
+    {
+        "TrainName": "02814  ANAND VIHAR T - BHUBANESWAR Covid SF Special",
+        "TrainSeats": [
+            "AVBL-0007",
+            "AVBL-0010",
+            "AVBL-0018",
+            "PQWL7/WL4"
+        ],
+        "DepartureTime": "08:00 ANVT",
+        "ArrivalTime": "13:35 CNB",
+        "TotalTravelTime": "5 H 35 M"
+    },
+    {
+        "TrainName": "02268  NEW DELHI - HOWRAH Duronto Special",
+        "TrainSeats": [
+            "AVBL-0001",
+            "AVBL-0005",
+            "AVBL-0385",
+            "AVBL-0070"
+        ],
+        "DepartureTime": "12:40 NDLS",
+        "ArrivalTime": "17:35 CNB",
+        "TotalTravelTime": "4 H 55 M"
+    },
+    {
+        "TrainName": "02466  ANAND VIHAR T - MADHUPUR Baba Baidyanath Dham Covid Special",
+        "TrainSeats": [
+            "AVBL-0138",
+            "AVBL-0005",
+            "AVBL-0222",
+            "AVBL-0058"
+        ],
+        "DepartureTime": "12:45 ANVT",
+        "ArrivalTime": "17:40 CNB",
+        "TotalTravelTime": "4 H 55 M"
+    },
+    {
+        "TrainName": "05026  ANAND VIHAR T - MAU Special",
+        "TrainSeats": [
+            "AVBL-0162",
+            "AVBL-0041",
+            "AVBL-0026",
+            "AVBL-0014"
+        ],
+        "DepartureTime": "13:25 ANVT",
+        "ArrivalTime": "19:05 CNB",
+        "TotalTravelTime": "5 H 40 M"
+    },
+    {
+        "TrainName": "02242  NEW DELHI - RANCHI AC Special",
+        "TrainSeats": [
+            "AVBL-0001",
+            "AVBL-0031",
+            "AVBL-0037",
+            "AVBL-0028"
+        ],
+        "DepartureTime": "16:10 NDLS",
+        "ArrivalTime": "20:55 CNB",
+        "TotalTravelTime": "4 H 45 M"
+    },
+    {
+        "TrainName": "05140  ANAND VIHAR T - MAU SF Special",
+        "TrainSeats": [
+            "AVBL-0004",
+            "AVBL-0061",
+            "AVBL-0031",
+            "AVBL-0003"
+        ],
+        "DepartureTime": "16:45 ANVT",
+        "ArrivalTime": "21:40 CNB",
+        "TotalTravelTime": "4 H 55 M"
+    },
+    {
+        "TrainName": "02306  NEW DELHI - HOWRAH Covid AC Special",
+        "TrainSeats": [
+            "TRAIN CANCELLED",
+            "TRAIN CANCELLED",
+            "TRAIN CANCELLED",
+            "AVBL-0019"
+        ],
+        "DepartureTime": "16:50 NDLS",
+        "ArrivalTime": "21:35 CNB",
+        "TotalTravelTime": "4 H 45 M"
+    },
+    {
+        "TrainName": "02856  NEW DELHI - BHUBANESWAR Covid AC Special",
+        "TrainSeats": [
+            "AVBL-0010",
+            "AVBL-0001",
+            "AVBL-0075",
+            "PQWL49/WL43"
+        ],
+        "DepartureTime": "17:00 NDLS",
+        "ArrivalTime": "21:45 CNB",
+        "TotalTravelTime": "4 H 45 M"
+    },
+    {
+        "TrainName": "02826  NEW DELHI - BHUBANESWAR Covid Rajdhani Special",
+        "TrainSeats": [
+            "PQWL63/WL44",
+            "PQWL26/WL10",
+            "AVBL-0005",
+            "PQWL3/WL3"
+        ],
+        "DepartureTime": "17:00 NDLS",
+        "ArrivalTime": "21:45 CNB",
+        "TotalTravelTime": "4 H 45 M"
+    },
+    {
+        "TrainName": "04412  ANAND VIHAR T - BHAGALPUR Garib Rath Special",
+        "TrainSeats": [
+            "",
+            "",
+            "AVBL-0320",
+            "AVBL-0071"
+        ],
+        "DepartureTime": "17:20 ANVT",
+        "ArrivalTime": "22:15 CNB",
+        "TotalTravelTime": "4 H 55 M"
+    },
+    {
+        "TrainName": "02382  NEW DELHI - HOWRAH Poorva Exp Covid SF Special",
+        "TrainSeats": [
+            "AVBL-0002",
+            "AVBL-0971",
+            "AVBL-0017",
+            "RLWL60/WL23"
+        ],
+        "DepartureTime": "17:40 NDLS",
+        "ArrivalTime": "22:55 CNB",
+        "TotalTravelTime": "5 H 15 M"
+    },
+    {
+        "TrainName": "04056  OLD DELHI - BALLIA Covid Clone Humsafar Special",
+        "TrainSeats": [
+            "AVBL-0001",
+            "AVBL-0002",
+            "RLWL1/WL1",
+            "AVBL-0526"
+        ],
+        "DepartureTime": "18:05 ANVT",
+        "ArrivalTime": "00:15 CNB",
+        "TotalTravelTime": "6 H 10 M"
+    },
+    {
+        "TrainName": "02502  ANAND VIHAR T - AGARTALA Rajdhani (Covid SPL AC)",
+        "TrainSeats": [
+            "RAC 33/RAC 20",
+            "AVBL-0027",
+            "AVBL-0005",
+            "AVBL-0020"
+        ],
+        "DepartureTime": "19:50 ANVT",
+        "ArrivalTime": "00:40 CNB",
+        "TotalTravelTime": "4 H 50 M"
+    },
+    {
+        "TrainName": "02596  ANAND VIHAR T - GORAKHPUR Festival Special",
+        "TrainSeats": [
+            "AVBL-0042",
+            "PQWL3/WL3",
+            "AVBL-0007",
+            "AVBL-0006"
+        ],
+        "DepartureTime": "20:00 ANVT",
+        "ArrivalTime": "00:50 CNB",
+        "TotalTravelTime": "4 H 50 M"
+    },
+    {
+        "TrainName": "02380  AMRITSAR - SEALDAH Jallianwala Bagh Covid SF Special",
+        "TrainSeats": [
+            "AVBL-0002",
+            "AVBL-0445",
+            "AVBL-0095",
+            "AVBL-0154"
+        ],
+        "DepartureTime": "20:15 DLI",
+        "ArrivalTime": "01:10 CNB",
+        "TotalTravelTime": "4 H 55 M"
+    },
+    {
+        "TrainName": "02234  ANAND VIHAR T - GHAZIPUR CITY  Suhaildev Covid SF Special",
+        "TrainSeats": [
+            "AVBL-0026",
+            "AVBL-0354",
+            "AVBL-0367",
+            "AVBL-0350"
+        ],
+        "DepartureTime": "20:20 ANVT",
+        "ArrivalTime": "01:10 CNB",
+        "TotalTravelTime": "4 H 50 M"
+    },
+    {
+        "TrainName": "02330  ANAND VIHAR T - SEALDAH West Bengal Sampark Kranti Special",
+        "TrainSeats": [
+            "AVBL-0070",
+            "GNWL9/WL7",
+            "RAC 97/RAC 91",
+            "AVBL-0020"
+        ],
+        "DepartureTime": "20:20 ANVT",
+        "ArrivalTime": "01:15 CNB",
+        "TotalTravelTime": "4 H 55 M"
+    },
+    {
+        "TrainName": "04162  ANAND VIHAR T -  KANPUR CENTRAL Special",
+        "TrainSeats": [
+            "GNWL3/WL3",
+            "AVBL-0069",
+            "AVBL-0043",
+            "AVBL-0210"
+        ],
+        "DepartureTime": "20:45 ANVT",
+        "ArrivalTime": "06:20 CNB",
+        "TotalTravelTime": "9 H 35 M"
+    },
+    {
+        "TrainName": "02584  ANAND VIHAR T - HATIA Swarna Jayanti SF Special",
+        "TrainSeats": [
+            "AVBL-0209",
+            "AVBL-0727",
+            "AVBL-0067",
+            "AVBL-0036"
+        ],
+        "DepartureTime": "20:45 ANVT",
+        "ArrivalTime": "01:50 CNB",
+        "TotalTravelTime": "5 H 5 M"
+    },
+    {
+        "TrainName": "03414  DELHI - MALDA TOWN Covid Special (via Sultanpur)",
+        "TrainSeats": [
+            "AVBL-0023",
+            "AVBL-0002",
+            null,
+            null
+        ],
+        "DepartureTime": "21:40 DLI",
+        "ArrivalTime": "05:40 CNB",
+        "TotalTravelTime": "8 H 0 M"
+    },
+    {
+        "TrainName": "02350  NEW DELHI - GODDA Humsafar Special",
+        "TrainSeats": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "DepartureTime": "23:45 NDLS",
+        "ArrivalTime": "05:35 CNB",
+        "TotalTravelTime": "5 H 50 M"
+    },
+    {
+        "TrainName": "02526  ANVT RNC SF EXP",
+        "TrainSeats": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "DepartureTime": "08:00 ANVT",
+        "ArrivalTime": "13:35 CNB",
+        "TotalTravelTime": "5 H 35 M"
+    },
+    {
+        "TrainName": "02436  NEW DELHI - VARANASI Vande Bharat Covid Special",
+        "TrainSeats": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "DepartureTime": "06:00 NDLS",
+        "ArrivalTime": "10:08 CNB",
+        "TotalTravelTime": "4 H 8 M"
+    },
+    {
+        "TrainName": "02454  NEW DELHI - RANCHI Rajdhani (Covid SPL AC)",
+        "TrainSeats": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "DepartureTime": "16:10 NDLS",
+        "ArrivalTime": "20:55 CNB",
+        "TotalTravelTime": "4 H 45 M"
+    }
+]

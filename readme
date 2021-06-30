@@ -1,0 +1,14 @@
+AUTOMATION and WEB SCRAPPING
+
+
+Decription:
+I have completed my Web Scrapping and Automation project.
+
+1) I have automated RailYatri website - a website to find trains related information.
+2) By the use of Puppeteer with JavaScript I have automated the process of finding all the trains available in the next   day and finding the seats availability in each of them. The user simply needs to enter the source and destinantion, and the work is automated for him and he receives and email about the availability.
+3) It gathers the data which is required,i.e. the train name, it's timings and seats availability etc. in a JSON file.
+4) At the end, it converts this JSON file to PDF format and emails these files to the user regarding availability.
+
+
+To run the file:
+node trainSeatsFinder.js
