@@ -2,6 +2,8 @@
 const pup = require("puppeteer");
 //fs for using writeFileSync
 const fs = require("fs");
+///
+let a=10;
 
 //for mailing
 var nodemailer = require('nodemailer');
@@ -71,12 +73,19 @@ async function main() {
         setTimeout(resolve, 1000);
     })
 
+    
+    //taking the screenshot of that page
+    
+    await tab.screenshot({path:"img.png"});
+
+
+
     //Pressing submit
     await tab.keyboard.press("ArrowDown");
     await tab.keyboard.press("Enter");
     await tab.click("input[value='Check Trains']");
 
-
+    
 
     //Names of trains
     await tab.waitForSelector(".namePart p", { visible: true });
@@ -106,6 +115,7 @@ async function main() {
         trainNames.push(trainName);
 
     }
+
 
 
     await tab.waitForSelector(".SA-info .SA-status p", { visible: true });
