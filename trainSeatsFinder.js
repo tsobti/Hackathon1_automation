@@ -2,8 +2,6 @@
 const pup = require("puppeteer");
 //fs for using writeFileSync
 const fs = require("fs");
-///
-let a=10;
 
 //for mailing
 var nodemailer = require('nodemailer');
